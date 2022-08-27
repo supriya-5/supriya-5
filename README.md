@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I'm open to collaborating on React Apps, Projects to develop website.
-- 📫 How to reach me:supriyaprabu005@gmail.com
+- 📫 How to reach me:supriyaprabakaran3@gmail.com
 - ⚡ Fun fact I am interested in cooking.
 
 
